@@ -22,13 +22,7 @@ export default function Assignments() {
     <div className="page-section">
       <div className="page-head">
         <span className="eyebrow">Individual assignments</span>
-        <h1>Who is doing what</h1>
-        <p className="lead">
-          The project is individual: every group member works on the same
-          assignment and publishes their own report. Details will be filled in
-          here as they&rsquo;re announced  -  edit{' '}
-          <code>src/data/members.js</code> to update this page.
-        </p>
+        <h1>Group Members</h1>
       </div>
 
       {members.map((m) => {
