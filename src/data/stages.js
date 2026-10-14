@@ -20,7 +20,6 @@ const stages = [
     summary:
       'The one-page proposal: project title, group, the problem we solve for people who want to play sport locally, the target users, the goal and the competitors we fix.',
     blurb: 'The problem, the users, and what we set out to build.',
-    // TODO: replace with the real Google Drive URL once the PDF is uploaded.
     report:
       'https://drive.google.com/file/d/1RlW9ZJXFVttSDPpETWg4Zo9pRXQEXTDu/view?usp=sharing',
     objectives: [
@@ -40,11 +39,11 @@ const stages = [
     slug: 'user-and-task-analysis',
     title: 'User and task analysis',
     dates: '14 October',
-    status: 'active',
+    status: 'done',
     summary:
       'Examine the problem space: who the main users of 2Gether are, what tasks they want to perform, what functionalities the system should offer, and how the work environment is.',
     blurb: 'User classes, high-level tasks, scenarios and interviews.',
-    report: null,
+    report: 'https://drive.google.com/file/d/19Vb-tNDuJOQP3jghX2VQnVmSPnMaV8YG/view?usp=drive_link',
     objectives: [
       'Identification and characterization of the target users, tasks and scenarios',
       'User analysis: identify the characteristics of the target user population, one entry per user class',
